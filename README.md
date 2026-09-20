@@ -1,5 +1,5 @@
 # Discord-app
-# This app gives you a client similar to Discord
+#  This app gives you a client similar to Discord
 
 What can it do? You can use a bot to perform actions such as sending messages
 
